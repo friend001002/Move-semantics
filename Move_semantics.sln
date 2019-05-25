@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Move_semantics", "Move_semantics\Move_semantics.vcxproj", "{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Debug|x64.ActiveCfg = Debug|x64
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Debug|x64.Build.0 = Debug|x64
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Debug|x86.ActiveCfg = Debug|Win32
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Debug|x86.Build.0 = Debug|Win32
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Release|x64.ActiveCfg = Release|x64
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Release|x64.Build.0 = Release|x64
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Release|x86.ActiveCfg = Release|Win32
+		{B202B56D-01EE-4AA6-BF54-6A07D1AD8791}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B8C52FE-A9C6-48F1-9D77-31BDE9197E19}
+	EndGlobalSection
+EndGlobal
