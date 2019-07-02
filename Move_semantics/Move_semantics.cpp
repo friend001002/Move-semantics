@@ -73,9 +73,9 @@ class Class
     return *this;
   }
 
-  /*! \brief Move assingment operator.
+  /*! \brief Copy assingment operator.
    *
-   *  Takes rvalues and lvalues, so need move constructor to separate behavior.
+   *  Takes rvalues and lvalues, so need move assingment operator to separate behavior.
    */
   Class& operator=(Class const& c)
   {
